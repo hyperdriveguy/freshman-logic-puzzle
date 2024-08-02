@@ -1,5 +1,9 @@
 # Photodiode-based Logic Puzzle
 
+This reposistory's code uses [PlatformIO](https://platformio.org/) and is recommended for use over the Arduino IDE.
+
+This schematic was made in KiCAD:
+
 ![Schematic for puzzle made in KiCAD](schematic/schematic.png)
 
 ## Background
